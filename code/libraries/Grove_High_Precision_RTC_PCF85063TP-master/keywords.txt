@@ -1,0 +1,38 @@
+  
+#######################################
+# Syntax Coloring Map For 
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+second	KEYWORD1
+minute	KEYWORD1
+hour	KEYWORD1
+dayOfWeek	KEYWORD1
+dayOfMonth	KEYWORD1
+month	KEYWORD1
+year	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+startClock	KEYWORD2
+stopClock	KEYWORD2
+setTime	KEYWORD2
+getTime	KEYWORD2
+setcalibration	KEYWORD2
+calibratBySeconds	KEYWORD2
+readCalibrationReg	KEYWORD2
+cap_sel	KEYWORD2
+reset	KEYWORD2
+fillByHMS	KEYWORD2
+fillByYMD	KEYWORD2
+fillDayOfWeek	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
