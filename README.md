@@ -17,8 +17,7 @@ That includes:
 - 🖼 Annotated figures and build images
 - 🗂 Source files and diagrams
 
-Everything is available in the GitHub repository:
-👉 [https://github.com/savvatsekmes/MycoClimate]
+
 
 ---
 
